@@ -2,20 +2,22 @@
 ### №1
 
 Отчеты Fastqc:
+Данные для SRR3414630_1 из второй домашки в первом семестре.
 
 **Per base sequence content**
 
-SRR5836475_1 | SRR5836475_2 | SRR3414630_1
---- | --- | ---
-![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/Per_b_sc_1.png) | ![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/Per_b_sc_2.png) |  ![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/per_b_sq3.png)
+SRR5836475_1 | S SRR3414630_1
+--- | ---
+![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/Per_b_sc_1.png) |  ![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/per_b_sq3.png)
 
-
+Из особенностей можем наблюдать, что графики выглядят совершенно по-разному:<br>
+Заметим, что в первом случае (SRR5836475_1) почти отсутствует Цитозин (C), по крайней мере его гораздо меньше чем в РНК, в отличие от Тимина (T) – его содержание, наоборот, больше, чем в РНК, cодержание Гуанина (G) и Ацетозин (А) же примерно на равном уровне, по сравнению с РНК (SRR3414630_1).<br>
 
 **Per sequence GC content**
 
-SRR5836475_1 | SRR5836475_2 | SRR3414630_1
---- | --- | ---
-![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/Per_s_gc_1.png) | ![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/Per_s_gc_2.png) |  ![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/Per_s_gc_3.png)
+SRR5836475_1 | SRR3414630_1
+--- | --- 
+![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/Per_s_gc_1.png) |  ![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/Per_s_gc_3.png)
 
 
 
@@ -32,7 +34,7 @@ SRR5836475_1 | SRR5836475_2 | SRR3414630_1
 
 **(d)** M-bias plots<br>
 
-Можем сказать, что на графиках изображена пропорцию метилирования для каждой возможной позиции в прочтении. На данных графиках по оси ```y``` слева видно значение Methylation calls, справа$~-~$пропорцию метилирования. Поскольку у нас парно-концевая запись, то для каждого запуска, представлено 2 разных графика.
+Можем сказать, что на графиках изображен уровень метилирования для каждой возможной позиции в прочтении. На данных графиках по оси ```y``` слева видно значение Methylation calls, справа$~-~$пропорцию метилирования. Поскольку у нас парно-концевая запись, то для каждого запуска, представлено 2 разных графика.
 
 #### SRR3824222
 Read 1 | Read 2 
