@@ -4,6 +4,8 @@
 Отчеты Fastqc:
 
 
+
+
 ### №2
 
 [Colab с кодом](https://colab.research.google.com/drive/1QuP74Ola371aS37arV9O7BzrYBJgOFRI?usp=sharing)
