@@ -32,8 +32,7 @@ Read 1 | Read 2
 **(e)** Гистограммы распределения метилирования цитозинов по хромосоме
 8cell | epiblast | icm 
 --- | --- | ---
-![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/8cell.png) | ![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/epiblast.png) |  
-![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/icm.png)
+![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/8cell.png) | ![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/epiblast.png) |  ![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/icm.png)
 
 
 
