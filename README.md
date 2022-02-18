@@ -3,6 +3,22 @@
 
 Отчеты Fastqc:
 
+**Per base sequence content**
+
+SRR5836475_1 | SRR5836475_2 | SRR3414630_1
+--- | --- | ---
+![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/Per_b_sc_1.png) | ![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/Per_b_sc_2.png) |  ![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/per_b_sq3.png)
+
+
+
+**Per sequence GC content**
+
+SRR5836475_1 | SRR5836475_2 | SRR3414630_1
+--- | --- | ---
+![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/Per_s_gc_1.png) | ![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/Per_s_gc_2.png) |  ![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/Per_s_gc_3.png)
+
+
+
 
 
 
