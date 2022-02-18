@@ -1,4 +1,8 @@
 # hse_hw1_meth
+### №1
+
+Отчеты Fastqc:
+
 
 ### №2
 
@@ -25,6 +29,11 @@ Read 1 | Read 2
 --- | --- 
 ![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/Bismark_M-bias%20Read_1_73.png) | ![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/Bismark_M-bias%20Read_2_73.png)
 
+**(e)** Гистограммы распределения метилирования цитозинов по хромосоме
+8cell | epiblast | icm 
+--- | --- | ---
+![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/8cell.png) | ![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/epiblast.png) |  
+![](https://github.com/ulvivl/hse_hw1_meth/blob/main/img/icm.png)
 
 
 
