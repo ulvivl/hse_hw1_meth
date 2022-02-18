@@ -1,7 +1,7 @@
 # hse_hw1_meth
 ### №1
 
-Отчеты Fastqc:
+Отчеты Fastqc:<br>
 Данные для SRR3414630_1 из второй домашки в первом семестре.
 
 **Per base sequence content**
