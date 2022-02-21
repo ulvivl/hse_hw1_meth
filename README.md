@@ -24,7 +24,7 @@ SRR5836475_1 | SRR3414630_1
 
 ### №2
 
-[Colab с кодом](https://colab.research.google.com/drive/1QuP74Ola371aS37arV9O7BzrYBJgOFRI?usp=sharing)
+[Colab с кодом](https://colab.research.google.com/drive/1oLOTU_FyLpgTflPxpn4NZ3EwAypmSm7I?usp=sharing)
 
 **(a), (b)** Таблица с числм ридов, закартированных на участках 11347700-11367700; 40185800-40195800 и процентом дуплицированных прочтений для каждого образца
 
